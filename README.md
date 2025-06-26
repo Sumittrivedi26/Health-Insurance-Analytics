@@ -1,6 +1,4 @@
 ## 🏥 Health Insurance Dataset Analysis
-this repository consists of data Analysis with statistical analytics on Python for Health Insurance sector.
-
 
 This project involves a comprehensive analysis of a health insurance dataset using Python. The goal is to understand the relationship between various demographic and health-related factors (such as age, BMI, smoking habits, and region) and the insurance charges.
 
